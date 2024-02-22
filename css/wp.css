@@ -1,0 +1,866 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden !important;
+}
+h1
+{
+    overflow-y: hidden !important;
+}
+.work1
+{
+    background-color: rgba(22, 48, 32, 0.98);
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    padding: 10px 20px;
+    overflow-y: hidden !important;
+}
+
+.navbar-links {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+.navbar-links li {
+    margin-right: 20px;
+}
+
+.navbar-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 35px ;
+}
+
+#btn
+{
+    border: none;
+    background-color: #9BCF53;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+.globe
+{
+    color: #43CD66 !important;
+}
+.para h1
+{
+   width: 80%;
+   height: auto;
+   font-size: 56px;
+   color: #43CD66 !important;
+}
+.dropdown:hover .dropdown-menu
+{
+    display: block !important;
+}
+.para p
+{
+    width: 80%;
+    height: auto;
+    font-size: 20px;
+}
+#product
+{
+    background-color: #9BCF53;
+    border-radius: 50px;
+    margin-left: 15% !important;
+}
+#product:hover
+{
+    background-color: #789461;
+}
+.image
+{
+    width: 70%;
+    height: 450px;
+}
+
+.c-size h1
+{
+    font-size: 50px;
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+}
+.box1
+{
+    width: 40% !important;
+    margin-left: 8% !important;
+    border-radius: 30px !important;
+    box-shadow: 0 5px 17px gray;
+}
+.box1 .bag
+{
+    margin-left: 5% !important;
+    font-size: 60px !important;
+    padding-top: 10% !important;
+    color: #9BCF53;
+}
+.box1 a
+{
+    text-decoration: none !important;
+    color: black;
+}
+.box1 .arrow
+{
+    color: #9BCF53;
+}
+.box2
+{
+    width: 40% !important;
+    margin-left: 3% !important;
+    border-radius: 30px !important;
+    box-shadow: 0 5px 17px gray;
+}
+.box2 .bag
+{
+    margin-left: 5% !important;
+    font-size: 60px !important;
+    padding-top: 10% !important;
+    color: #9BCF53;
+}
+.box2 a
+{
+    text-decoration: none !important;
+    color: black;
+}
+.box2 .arrow
+{
+    color: #9BCF53;
+}
+h3
+{
+    overflow-y: hidden;
+}
+.wp
+{
+    background-color: #F3D7CA;
+}
+.choose1 .image
+{
+    width: 80% !important;
+    height: 340px !important;
+    margin-left: 15% !important;
+    border-radius: 50px !important;
+}
+.choose2
+{
+    width: 40% !important;
+}
+.choose2 h1
+{
+    margin-bottom: 10% !important;
+}
+.choose2 a
+{
+    text-decoration: none;
+}
+.choose2 p 
+{
+    color: gray;
+}
+.bank
+{
+    font-size: 50px;
+}
+.container
+{
+    background-color: #DCFFB7;
+    border-radius: 20px;
+    margin-top: 10% !important;
+}
+.story1 img
+{
+    width: 80% !important;
+    height: 350px;
+    border-radius: 20px;
+}
+.story2 a
+{
+    text-decoration: none;
+
+}
+.more
+{
+    background-color: rgba(22, 48, 32, 0.98);
+    margin-top: 15% !important;
+}
+.more h1
+{
+    color: #9BCF53;
+}
+#more
+{
+    background-color: #9BCF53;
+   margin-left: 43%;
+   padding: 10px 35px;
+   border-radius: 30px;
+}
+#more:hover
+{
+    background-color:#43CD66 ;
+}
+.footer
+{
+    background-color: #43CD66;
+}
+.footer a
+{
+    text-decoration: none;
+}
+
+
+
+/* platform page */
+.plat1 h1
+{
+   color:#9BCF53;
+   font-size: 50px !important;
+}
+#learn
+{
+    background-color: #9BCF53;
+    border-radius: 30px !important;
+    border: none
+}
+#learn:hover
+{
+    background-color: #43CD66;
+}
+.plat2 img
+{
+    width: 80% ;
+    height: 350px ;
+    margin-top: 5% !important;
+    border-radius: 30px  ;
+}
+.msg1
+{
+    font-size: 50px;
+}
+.boxes
+{
+    box-shadow: 0 5px 20px  gray;
+    margin-left: 6% !important;
+    border-bottom: 1px solid white;
+    border: 1px solid lightgrey;
+    border-radius: 20px;   
+}
+.work2 h1
+{
+    font-size: 47px;
+}
+.work2 img
+{
+    width: 80% !important;
+    height: 350px;
+    border-radius: 20px;
+}
+.see
+{
+    border-radius: 30px;
+    border: none;
+    background-color: #9BCF53;
+}
+.see:hover
+{
+    background-color: #43CD66;
+}
+#get
+{
+    background-color: none;
+    color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 10px 35px;
+    margin-left: 2% !important;
+}
+
+/* business page */
+
+.boxes span
+{
+ color:#43CD66; 
+ font-size: 45px !important;   
+}
+.more .img
+{
+    width: 15% !important;
+    height: 70px;
+    margin-left: 33% !important;
+}
+.more .image
+{
+    width: 15% !important;
+    height: 70px;
+}
+
+/* success page */
+.success a
+{
+    text-decoration: none;
+}
+.success h4
+{
+    overflow-y: hidden;
+}
+.success img
+{
+    border-radius: 20px !important;
+}
+.en
+{
+    overflow-y: hidden !important;
+
+}
+@media only screen and (min-width:320px) and (max-width:480px)
+{
+    .navbar-links
+    {
+        display: block !important;
+    }
+    .image
+    {
+        width: 90% !important;
+        height: 400px !important;
+        margin-top: 20% !important;
+    }
+    .c-size h1
+    {
+        font-size: 30px !important;
+        margin-left: -2% !important;
+    }
+    .sst
+    {
+        height: 700px !important;
+    }
+    #circle
+    {
+        margin-top: 110% !important;
+        margin-left: -20% !important;
+        font-size: 20px !important;
+    }
+    .para
+    {
+        overflow-y: hidden !important;
+        display: block !important;
+    }
+    .box1,.box2
+    {
+        width: 83% !important;
+        margin-left: 8% !important;
+        margin-top: 5% !important;
+        /* margin: 2% !important; */
+    }
+    .choose2
+    {
+        width: 90% !important;
+        margin-left: 5% !important;
+    }
+    .choose1
+    {
+        margin-left: -5% !important;
+    }
+    .bank
+    {
+        font-size: 30px !important;
+    }
+    .story2 h1
+    {
+        margin-top: -20% !important;
+        margin-left: 7% !important;
+        position: absolute !important;
+    }
+    .story2 h3
+    {
+        margin-top: -10% !important;
+        position: absolute !important;
+    }
+    .story2 a
+    {
+        margin-top: 20% !important;
+        margin-left: 7% !important;
+        position: absolute;
+    }
+    .footer
+    {
+        padding-left: 15% !important;
+        padding-top: 1% !important;
+    }
+    #more
+    {
+        margin-left: 3% !important;
+    }
+
+
+
+    /* platform page */
+
+        /* Adjustments for smaller screens */
+
+    /* Navbar */
+    .navbar {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    .navbar-links {
+        text-align: center !important;
+        padding: 0 !important;
+    }
+
+    .navbar-links li {
+        margin-top: 10px !important;
+    }
+
+    /* Adjust padding and margins for elements inside navbar */
+
+    .navbar-toggle {
+        margin-top: 20px !important;
+    }
+
+    /* Update styles for buttons */
+    #btn {
+        margin: 10px !important;
+    }
+
+    /* Adjust styles for platform home page */
+    .plat1 {
+        padding: 10px !important;
+    }
+
+    .plat2 img {
+        width: 100% !important;
+    }
+
+    /* Adjust styles for messaging section */
+    .msg1 {
+        font-size: 24px !important;
+    }
+
+    .boxes {
+        width: 90% !important;
+        padding: 10px !important;
+        text-align: center !important;
+    }
+    .growth
+    {
+        font-size: 35px !important;
+        width: 90% !important;
+        margin-left: -3% !important;
+    }
+
+    /* Adjust styles for "Discover common WhatsApp Business Platform use cases" section */
+    .more {
+        text-align: center !important;
+    }
+    .img1 h1,.img2 h1,.img3 h1,.img4 h1,.img5 h1
+    {
+        font-size: 35px !important;
+    }
+    .img1 h1,h3,ol, .see
+    {
+        margin-left: 13% !important;
+        margin-top: 4% !important;
+    }
+    .img2 img
+    {
+       margin-top: -150% !important;
+       margin-left: 7% !important;
+       position: absolute !important;
+    }
+    .img2 h1
+    {
+        margin-top: 73% !important;
+        margin-left: 2% !important;
+        position: absolute !important;
+    }
+    .img2 h3
+    {
+        margin-top: 94% !important;
+        margin-left: 2% !important;
+        position: absolute !important;
+    }
+    .img2 ol 
+    {
+        margin-top: 110% !important;
+    }
+    .img3 img
+    {
+        margin-top: -10% !important;
+        position: absolute !important;
+    }
+    .img3 h1,h3,ol, .see
+    {
+        margin-top: 57% !important;
+        margin-left: 12% !important ;
+    }
+
+    .img4 img
+    {
+        position: absolute !important;
+        margin-top: -8% !important;
+    }
+    .img4 h1
+    {
+        margin-top: 77% !important;
+        margin-left: 4% !important;
+        position: absolute !important;
+    }
+    .img4 h3
+    {
+        margin-top: 103% !important;
+        margin-left: 4% !important;
+        position: absolute !important;
+    }
+    .img4 ol
+    {
+        position: absolute !important;
+        margin-top: 113% !important;
+        margin-left: 8% !important;
+    }
+    .img4 .see
+    {
+        position: absolute !important;
+        margin-top: 127% !important;
+        margin-left: 4% !important;
+    }
+    .img5 img
+    {
+        margin-top: 138% !important;
+    }
+    .img5 h1
+    {
+        margin-top: -14% !important;
+        margin-left: 9% !important;
+    }
+    /* Update button styles */
+    .see, #more, #get {
+        margin-top: 20px !important;
+    }
+    #get
+    {
+        margin-top: 5% !important;
+        margin-left: -65% !important;
+        position: absolute !important;
+    }
+
+    /* Adjust styles for footer */
+    .footer .col-md-3 {
+        text-align: center !important;
+        margin-top: 20px !important;
+    }
+
+
+
+    /* safty page */
+
+   
+    /* Trust & Safety Section */
+    .container.ms-5.ps-5.bg-white.text-center {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+     #data
+     {
+        margin-left: -1% !important;
+     }
+    .container h1,
+    .container h2,
+    .container p
+     {
+        width: 90% !important;
+        margin-left: -1% !important;  
+    }
+
+
+    /* overview page */
+
+    .container-fluid.work1 .navbar {
+        flex-direction: column !important;
+    }
+
+    .container-fluid.work1 .row.mt-5.pt-5 {
+        flex-direction: column !important;
+        margin-top: 1rem !important;
+    }
+
+    .container-fluid.ms-5.ps-5.bg-white.text-center {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    .container.ms-5.ps-5.bg-white.text-center h1.fs-1.w-75 {
+        font-size: 40px !important;
+        margin-left: -15% !important;
+    }
+
+    .container.ms-5.ps-5.bg-white.text-center p {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    .container.ms-5.ps-5.bg-white.text-center h2.fs-1 {
+        margin-left: 0 !important;
+    }
+
+    .container.ms-5.ps-5.bg-white.text-center p.fs-5 {
+        margin-left: 0 !important;
+    }
+
+
+    /* success page */
+
+        /* Adjustments for Success Stories section */
+        .col-md-9.para {
+            width: 100% !important; /* Make the column full width */
+        }
+    
+        .col-md-3 {
+            width: 80% !important;
+            height: 400px !important;
+            margin-top: -15% !important;
+            margin-left: 7% !important;
+        }
+        #ss
+        {
+            overflow-y: hidden !important; 
+
+        }
+    
+        /* Adjustments for company size section */
+        .flexible
+        {
+            height: 750px !important;
+        }
+        .story1
+        {
+            margin-top: -5% !important;
+            position: absolute ;
+            margin-left: -6% !important ;
+        }
+        .story2 img
+        {
+            position: absolute;
+            margin-top: 68% !important;
+            margin-left: -35% !important;
+        }
+        .story2 h3
+        {
+            margin-top: 78% !important;
+            margin-left: 3% !important;
+        }
+        .story2 h4
+        {
+            margin-top: 105% !important;
+            margin-left: -59% !important;
+        }
+        .story2 .banco
+        {
+            margin-top: 2% !important;
+            margin-left: -40% !important;
+        }
+        .story1, .story2 {
+            text-align: center; /* Center align story content */
+        }
+    
+        /* Adjustments for success stories cards */
+        .success .col-md-4 {
+            width: 90% !important; /* Make each card full width */
+            margin-left: 2% !important;
+            margin-bottom: 20px; /* Adjust margin between cards */
+        }
+        .rully
+        {
+            margin-left: 23% !important;
+            padding-right: 3% !important;
+        }
+   /* Adjust styles for footer */
+   .footer .col-md-3 {
+     height: 80px !important;
+}
+
+
+
+/* blog page */
+
+.work1 .para h1 {
+    font-size: 2rem !important; /* Adjust heading font size */
+}
+.para 
+{
+    height: 90px !important;
+}
+.para p
+{
+    height: 100px !important;
+}
+.work1 .para p {
+    font-size: 20px !important; /* Adjust paragraph font size */
+
+}
+
+.success .col-md-4 {
+    width: 90% !important; /* Make columns full width */
+    margin-bottom: 2rem; /* Add some bottom margin between columns */
+}
+.success h4,.success p
+{
+    margin: auto !important;
+    align-items: center !important;
+    padding: 5% !important;
+    text-align: center !important;
+}
+
+
+/* devloper page */
+    /* Platform Home Page */
+    .plat1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .plat2 {
+        display: none;
+    }
+
+    /* Message Your Business */
+    .boxes {
+        text-align: center;
+        margin-top: 1rem !important;
+        height: 300px !important;
+    }
+    .boxes p
+    {
+        margin-top: 5% !important;
+        font-size: 20px !important;
+    }
+    #learn
+    {
+        margin-left: 12% !important;
+    }
+ 
+
+    /* Developer Hub */
+    .wp {
+        padding: 0 !important;
+    }
+
+    .choose1 img {
+        height: auto !important;
+        width: 100% !important;
+    }
+
+    .choose2 {
+        margin-top: 1rem;
+        text-align: center;
+    }
+   
+
+    .resources h1
+    {
+        margin-left: -5% !important;
+    }
+    .resources h3
+    {
+        margin-top: 1% !important;
+
+    }
+    .get1
+    {
+        display: none !important;
+    }
+
+
+    /* bussiness page */
+
+        /* Adjust column layout */
+        .col-md-6 {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+    
+        /* Adjust text size and padding */
+        .fs-5 {
+            font-size: 14px !important;
+        }
+    
+        .fs-4 {
+            font-size: 12px !important;
+        }
+    
+        .fs-1 {
+            font-size: 20px !important;
+        }
+    
+        .mt-5, .pt-5 {
+            margin-top: 10px !important;
+            padding-top: 10px !important;
+        }
+        .respond
+        {
+            margin-left: 20% !important;
+            padding-right: 17% !important;
+        }
+        .respond h1
+        {
+            font-size: 30px !important;
+            margin-left: 10% !important;
+            padding-right: 17% !important;
+        }
+        .respond a
+        {
+            margin-left: 10% !important;
+            font-size: 20px !important;
+        }
+
+        .resp
+        {
+            margin-top: 3% !important;
+        }
+        .resp1
+        {
+            margin-top: 80% !important;
+            position: absolute;
+        }
+
+        /* Adjust images */
+        .w-25 {
+            width: 50% !important;
+        }
+       .resp2
+       {
+        margin-top: 57% !important;
+       }
+       #app1,#app2
+       {
+        width: 200px !important;
+        height: 90px !important;
+       }
+       #app1
+       {
+        margin-top: -1% !important;
+       }
+       #app2
+       {
+        margin-left: -1% !important;
+        margin-top: 0% !important;
+       }
+
+       .navbar-toggler
+       {
+        margin-left: 90% !important;
+        margin-top: 2% !important;
+        overflow-y: hidden !important;
+       }
+}
